@@ -2,6 +2,16 @@ Fitness Membership Management System
 
 The Fitness Center Membership Management System is a comprehensive web-based application designed to streamline and automate the process of managing memberships for a fitness center. This system provides an efficient and user-friendly platform for both prospective members looking to join and existing members looking to renew, suspend, or cancel their memberships.
 
+Technology Used
+
+Java
+SQL
+PL/SQL
+Servlet
+JSP
+JDBC
+
+
 Key Features
 
 1. Membership Registration and Renewal
