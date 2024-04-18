@@ -4,12 +4,12 @@ The Fitness Center Membership Management System is a comprehensive web-based app
 
 Technology Used
 
-• Java
-• SQL
-• PL/SQL
-• Servlet
-• JSP
-• JDBC
+• Java <br>
+• SQL <br>
+• PL/SQL <br>
+• Servlet <br>
+• JSP <br>
+• JDBC <br>
 
 Key Features
 
